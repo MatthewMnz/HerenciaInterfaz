@@ -1,0 +1,14 @@
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\obj\Debug\net8.0\ClasePractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\obj\Debug\net8.0\ClasePractica.AssemblyInfoInputs.cache
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\obj\Debug\net8.0\ClasePractica.AssemblyInfo.cs
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\obj\Debug\net8.0\ClasePractica.csproj.CoreCompileInputs.cache
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\bin\Debug\net8.0\ClasePractica.exe
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\bin\Debug\net8.0\ClasePractica.deps.json
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\bin\Debug\net8.0\ClasePractica.runtimeconfig.json
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\bin\Debug\net8.0\ClasePractica.dll
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\bin\Debug\net8.0\ClasePractica.pdb
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\obj\Debug\net8.0\ClasePractica.dll
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\obj\Debug\net8.0\refint\ClasePractica.dll
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\obj\Debug\net8.0\ClasePractica.pdb
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\obj\Debug\net8.0\ClasePractica.genruntimeconfig.cache
+C:\Users\ROBOTICA\source\repos\Solution1\ClasePractica\ClasePractica\obj\Debug\net8.0\ref\ClasePractica.dll
